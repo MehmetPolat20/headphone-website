@@ -1,0 +1,45 @@
+.model {
+  h2 {
+    text-align: center;
+  }
+  &_container {
+    padding-top: 32px;
+  }
+  &_content {
+    position: relative;
+    justify-self: center;
+  }
+  &_img {
+    width: 280px;
+  }
+  &_tooltip {
+    position: absolute;
+    &-text {
+        background: var(--gradient-color);
+        padding: 6px 12px;
+        border-radius: 64px;
+        color: white;
+        font-size: var(--small-font-size);
+        font-weight: var(--font-medium);
+        position: absolute;
+        white-space: nowrap;
+        transform: translate(60px,-50px);
+    }
+    &-1{
+        top: 88px;
+        left: 80px;
+    }
+    &-2 {
+        top: 16px;
+        right: 24px;
+    }
+    &-3 {
+        bottom: 28px;
+        left: 50px;
+    }
+    &-4{
+        left: 120px;
+        bottom: 100px;
+    }
+  }
+}
