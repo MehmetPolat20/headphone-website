@@ -1,4 +1,4 @@
-# Headphone E-commerce Site
+# Headphone E-commerce WebSite
 
 This project is a fully responsive headphone shopping website designed. With its modern and user-friendly interface, customers can easily browse and purchase headphones.
 
