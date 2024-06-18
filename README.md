@@ -13,7 +13,7 @@ This project is a fully responsive headphone shopping website designed. With its
 - HTML5
 - CSS3
 - Bootstrap
-- 
+
 ## Screenshots
 ![1](https://github.com/MehmetPolat20/headphone-website/assets/150278524/fa6ebaf9-4f38-417b-9a0e-78c24df134ae)
 ![2](https://github.com/MehmetPolat20/headphone-website/assets/150278524/2b2070d8-2495-4b87-a112-42b0f7ecac48)
